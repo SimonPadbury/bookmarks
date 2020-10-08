@@ -1,8 +1,6 @@
 # Bookmarks
 
-I have kept bookmarks in various places (e.g. browsers, desktop markdown files, Evernote, Simplenote, Boostnote, Pocket, Google search autocomplete). It's long past time I put them somewhere sensible.
-
-## Helpful
+## Helpful Stuff
 
 https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
 
@@ -20,25 +18,25 @@ https://a11yresources.webflow.io/
 
 https://hexcolor.co/
 
-## Some Static Website Generators I use
+## Some static website generators I like
 
 https://www.11ty.dev/
 
 https://www.gatsbyjs.com/
 
-## Some Content Management Systems I use:
+## Some content management systems I like
 
 https://developers.hubspot.com/docs/cms
 
 https://wordpress.org/support/
 
-## Some Email Systems I use/have used
+## Some Email Systems I like
 
 https://mailchimp.com/
 
 https://www.campaignmonitor.com/
 
-## Icon fonts
+## Icon fonts I like
 
 https://tablericons.com/
 

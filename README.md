@@ -32,7 +32,7 @@ https://developers.hubspot.com/docs/cms
 
 https://wordpress.org/support/
 
-Email I use/hav used:
+Email I use/have used:
 
 https://mailchimp.com/
 

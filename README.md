@@ -43,3 +43,7 @@ Icon fonts:
 https://tablericons.com/
 
 https://feathericons.com/
+
+Transformicons has gone, but this is a worthy replacement for navicons:
+
+https://jonsuh.com/hamburgers/

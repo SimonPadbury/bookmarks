@@ -1,5 +1,7 @@
 # Bookmarks
 
+Web dev stuff I like, and use alot (or, have used alot).
+
 ## Helpful Stuff
 
 https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
@@ -20,13 +22,17 @@ https://a11yresources.webflow.io/
 
 https://hexcolor.co/
 
-## Some static website generators I like
+## Static website generators
 
 https://www.11ty.dev/
 
 https://www.gatsbyjs.com/
 
-## Some content management systems I like
+## Task runners
+
+https://gulpjs.com/
+
+## Content management systems
 
 https://developers.hubspot.com/docs/cms
 
@@ -38,7 +44,9 @@ https://mailchimp.com/
 
 https://www.campaignmonitor.com/
 
-## Icon fonts I like
+## Icon fonts
+
+https://phosphoricons.com/
 
 https://tablericons.com/
 
@@ -47,3 +55,9 @@ https://feathericons.com/
 Transformicons has gone, but this is a worthy replacement for navicons:
 
 https://jonsuh.com/hamburgers/
+
+## SVG tools
+
+https://jakearchibald.github.io/svgomg/
+
+https://yoksel.github.io/url-encoder/

@@ -38,13 +38,15 @@ https://developers.hubspot.com/docs/cms
 
 https://wordpress.org/support/
 
-## Some Email Systems I like
+## Some marketing email systems I like
 
 https://mailchimp.com/
 
 https://www.campaignmonitor.com/
 
 ## Icon fonts
+
+https://fontawesome.com/
 
 https://phosphoricons.com/
 
@@ -55,6 +57,14 @@ https://feathericons.com/
 Transformicons has gone, but this is a worthy replacement for navicons:
 
 https://jonsuh.com/hamburgers/
+
+## Colour generators
+
+https://color.adobe.com/create/color-wheel
+
+https://mycolor.space/
+
+https://colors.eva.design/
 
 ## SVG tools
 

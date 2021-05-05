@@ -12,6 +12,8 @@ https://css-tricks.com/snippets/css/complete-guide-grid/
 
 https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/
 
+https://css-tricks.com/a-complete-guide-to-custom-properties/
+
 https://tiny-helpers.dev/
 
 http://www.amp-what.com/

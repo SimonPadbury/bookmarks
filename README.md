@@ -26,6 +26,8 @@ https://hexcolor.co/
 
 https://autoprefixer.github.io/
 
+https://html-cleaner.com/features/remove-html-inline-styles/
+
 ## Static website generators
 
 https://www.11ty.dev/
@@ -42,7 +44,7 @@ https://developers.hubspot.com/docs/cms
 
 https://wordpress.org/support/
 
-## Some marketing email systems I like
+## Some marketing email systems I like / use
 
 https://mailchimp.com/
 

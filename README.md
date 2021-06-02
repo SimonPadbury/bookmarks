@@ -4,6 +4,8 @@ Web dev stuff I like, and use alot (or, have used alot).
 
 ## Helpful Stuff
 
+https://a11y-collective.com/blog/the-perfect-link/
+
 https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048
 
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/

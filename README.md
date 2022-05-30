@@ -4,6 +4,10 @@ Web dev stuff I like, and use alot (or, have used alot).
 
 ## Helpful Stuff
 
+https://utopia.fyi
+
+https://xsgames.co/devassets/
+
 https://www.smashingmagazine.com/2022/05/lesser-known-underused-css-features-2022
 
 https://a11y-collective.com/blog/the-perfect-link/
